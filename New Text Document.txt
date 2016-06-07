@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>HTML структура документа</title>
+</head>
+<body>
+<h3>my site 234785187749386897</h3>
+</body>
+</html>
